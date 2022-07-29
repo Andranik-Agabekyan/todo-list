@@ -1,0 +1,84 @@
+.unique__messages {
+    margin: 0px auto;
+    margin-top: 40px;
+    
+}
+.unique__container{
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 28px;
+    overflow: hidden;
+    text-align: center;
+    align-items: center;
+    background-color: yellowgreen;
+}
+.edit__input-of__message {
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.input__of-edit{
+    border-radius: 28px;
+    height: 25px;
+}
+
+.edit__text-message{
+    font-style: italic;
+    font-size: 16px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+
+}
+.btn__save{
+}
+.btn__save-text{
+    border-radius: 28px;
+    font-size: 15px;
+    background-color: blueviolet;
+    color: white;
+    width: 150px;
+    height: 30px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 1px solid yellowgreen;
+}
+.btn__save-text:hover {
+    opacity: .5;
+}
+
+.edit__todo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+.btn__delete{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100px;
+    border-radius: 28px;
+    border: 1px solid yellowgreen;
+    background-color: blueviolet;
+    color: white;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+.btn__edit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 150px;
+    border-radius: 28px;
+    border: 1px solid yellowgreen;
+    background-color: blueviolet;
+    color: white;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

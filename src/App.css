@@ -1,0 +1,12 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  border: 1px solid;
+  border-radius: 20px;
+  background-color: aquamarine;
+  width: 400px;
+}

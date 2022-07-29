@@ -1,0 +1,21 @@
+.btn__add-message {
+    border: 1px solid;
+    border-radius: 18px;
+    height:  30px;
+    margin: 20px 10px 20px 10px;
+    background-color: green;
+    color: white;
+    font-size: 14px;
+}
+.btn__add-message:hover {
+    opacity: .7;
+}
+.add__message {
+    display: flex;
+    flex-direction: column;
+}
+.input__of-message{
+    border: 1px solid white;
+    border-radius: 28px;
+    margin: 20px 10px;
+}
